@@ -6,7 +6,7 @@ santuario-genxdm - Revision 93: /trunk :
 
 ..
 
-.svn  <!-- // ( .svn folder appeared in .zip after directory download, initially there were only 3 folders) -->
+.svn                     <!-- // ( .svn folder appeared in .zip after directory download, initially there were only 3 folders) -->
 
 santuario-genxdm/
 
